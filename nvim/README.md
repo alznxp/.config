@@ -5,3 +5,4 @@ Plugins:
 2. Vim Terminal
 3. Vim Surround
 4. Vim Terminal
+5. Developer Icons
