@@ -6,3 +6,4 @@ Plugins:
 3. Vim Surround
 4. Vim Terminal
 5. Developer Icons
+6. Tagbar for code navigation
