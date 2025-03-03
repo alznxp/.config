@@ -7,3 +7,4 @@ Plugins:
 4. Vim Terminal
 5. Developer Icons
 6. Tagbar for code navigation
+7. Retro Scheme
