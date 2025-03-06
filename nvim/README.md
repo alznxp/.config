@@ -9,3 +9,4 @@ Plugins:
 6. Tagbar for code navigation
 7. Retro Scheme
 8. Surrounding ysw
+9. Vim Airline
