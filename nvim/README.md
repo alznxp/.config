@@ -8,3 +8,4 @@ Plugins:
 5. Developer Icons
 6. Tagbar for code navigation
 7. Retro Scheme
+8. Surrounding ysw
