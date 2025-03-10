@@ -11,3 +11,4 @@ Plugins:
 8. Surrounding ysw
 9. Vim Airline
 10. PSQL Pluging needs
+11. Presence
