@@ -12,3 +12,4 @@ Plugins:
 9. Vim Airline
 10. PSQL Pluging needs
 11. Presence
+12. Vim quantum
