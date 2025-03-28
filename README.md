@@ -7,7 +7,7 @@ This private repository contains my current Neovim configuration scripts and pot
 #### Contents
 
 - `nvim/` - The Neovim configuration directory containing my init.lua, plugin setups, and customizations.
-- Other config directories (to be added in the future) - Any additional configuration files for tools like `zsh`, `tmux`, `git`, etc.
+- Other config directories (to be added in the future) - Any additional configuration files for tools like `zsh`, `tmux`, `git`, `yaml`, etc.
 
 #### Versioning
 
