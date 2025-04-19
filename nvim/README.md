@@ -14,3 +14,4 @@ Plugins:
 11. Presence
 12. Vim quantum
 13. Vim JSX
+14. Vim Javascript
